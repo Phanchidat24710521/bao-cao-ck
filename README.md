@@ -4,7 +4,9 @@
 - **Giảng viên hướng dẫn:** TS. Ngô Hữu Dũng
 - **Nhóm thực hiện:** Nhóm 11
 - **Thành viên:** 
-  - MSSV: 24710631 (Thành viên chính)
+  - Phùng Gia Bảo - 24710631
+  - Nguyễn Hoàng Bảo - 24703171
+  - Phan Chí Đạt - 24710521
 
 ---
 
